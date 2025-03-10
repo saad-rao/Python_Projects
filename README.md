@@ -6,10 +6,10 @@ Welcome to my **Python Projects Repository**! 🚀 This is where I upload all my
 
 ## 📌 Table of Contents
 - [About This Repository](#about-this-repository)
-- [Projects](#projects)
+- [Projects](https://share.streamlit.io/user/saad-rao)
 - [Installation & Usage](#installation--usage)
 - [Contributing](#contributing)
-- [Connect With Me](#connect-with-me)
+- [Connect With Me](https://www.linkedin.com/in/saad-naseem-99651a2b4/)
 
 ---
 
@@ -23,6 +23,10 @@ This repository contains various Python projects I have built. Each project is w
 | Project Name | Description | Live Demo |
 |-------------|------------|-----------|
 | **Unit Converter** | A simple tool to convert between different units like length, weight, temperature, etc. | [🔗 View Project](https://unit-converter-by-dev-saad.streamlit.app/) |
+
+| Project Name | Description | Live Demo |
+|-------------|------------|-----------|
+| **Password generator** | A simple tool to Generate random password including digits and special characters | [🔗 View Project](https://password-generator-by-dev-saad.streamlit.app/) |
 <!-- 
 | **Web Scraper** | A Python-based web scraper that extracts data from websites. | [🔗 View Project](https://your-deployed-link.com) |
 | **To-Do App** | A task management app built using Python and Streamlit. | [🔗 View Project](https://your-deployed-link.com) | -->
@@ -73,8 +77,8 @@ Your contributions are always welcome! 🙌
 If you liked my work and want to connect, feel free to reach out:
 
 - **GitHub:** [saad-rao](https://github.com/saad-rao)
-- **LinkedIn:** [https://www.linkedin.com/in/saad-naseem-99651a2b4/]
-- **Twitter (X):** [(https://x.com/Saad_X_0_0]
+- **LinkedIn:**(https://www.linkedin.com/in/saad-naseem-99651a2b4/)
+- **Twitter (X):**(https://x.com/Saad_X_0_0)
 
 📢 Don't forget to ⭐ the repository if you find it useful!
 
