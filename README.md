@@ -26,7 +26,12 @@ This repository contains various Python projects I have built. Each project is w
 
 | Project Name | Description | Live Demo |
 |-------------|------------|-----------|
-| **Password generator** | A simple tool to Generate random password including digits and special characters | [🔗 View Project](https://password-generator-by-dev-saad.streamlit.app/) |
+| **Password generator** | A simple tool to Generate random password including digits and special characters. | [🔗 View Project](https://password-generator-by-dev-saad.streamlit.app/) |
+
+
+| Project Name | Description | Live Demo |
+|-------------|------------|-----------|
+| **Password Strength Checker** |A Streamlit-based password strength checker that checks passwords and gives accurate feedback with a modern user interface. | [🔗 View Project](https://password-strength-checker-by-dev-saad.streamlit.app/) |
 <!-- 
 | **Web Scraper** | A Python-based web scraper that extracts data from websites. | [🔗 View Project](https://your-deployed-link.com) |
 | **To-Do App** | A task management app built using Python and Streamlit. | [🔗 View Project](https://your-deployed-link.com) | -->
